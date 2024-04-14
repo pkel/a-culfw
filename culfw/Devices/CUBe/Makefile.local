@@ -1,0 +1,4 @@
+INCLUDEPATH = $(ARMBASE)/arm-none-eabi/include
+LIBPATH = $(ARMBASE)/arm-none-eabi/lib
+ARMPATH = $(ARMBASE)/bin/
+TOOLPREFIX = arm-none-eabi-
